@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POS.WinForm", "POS.WinForm\POS.WinForm.vbproj", "{11DDE56C-F787-422D-9D28-ECDD7E02E1B7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POS.Repository", "POS.Repository\POS.Repository.vbproj", "{88D8C879-F19A-4CE7-877C-C9193A7A0B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DDE56C-F787-422D-9D28-ECDD7E02E1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DDE56C-F787-422D-9D28-ECDD7E02E1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DDE56C-F787-422D-9D28-ECDD7E02E1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DDE56C-F787-422D-9D28-ECDD7E02E1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D8C879-F19A-4CE7-877C-C9193A7A0B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D8C879-F19A-4CE7-877C-C9193A7A0B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D8C879-F19A-4CE7-877C-C9193A7A0B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D8C879-F19A-4CE7-877C-C9193A7A0B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3740F546-6E69-4EBD-AD1F-B35A0CC6F256}
+	EndGlobalSection
+EndGlobal
